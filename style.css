@@ -1,0 +1,77 @@
+
+#heading{
+    padding-top: 7rem;
+    padding-bottom: 19rem;
+    background-color: #fcdada;
+}
+
+.headimg{
+    width: 100%;
+    margin-left: 5rem;
+    position: absolute;
+    right: 2.5px;
+}
+
+.intro{
+    padding-left: 1rem;
+    padding-top: 3.5rem;
+}
+.in{
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.5rem;
+}
+.int{
+    font-size: 4.5rem;
+    font-family: 'Lobster', cursive;
+}
+
+#middle-class{
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin: 2rem;
+    font-family: 'Rubik', sans-serif;
+}
+
+#lower-class{
+    text-align: center;
+    padding: 6% 6% 6% 10%;
+    position: relative;
+    background-color: tomato;
+    font-family: 'Rubik', sans-serif;
+}
+
+.pad{
+    padding-bottom: 5%;
+    padding-top: 4%;
+}
+
+#quotes{
+    text-align: center;
+    padding-bottom: 4%;
+    padding-top: 2.5%;
+    font-family: 'Rubik', sans-serif;
+ 
+}
+
+.qimg{
+    width: 10%;
+    border-radius: 100%;
+    margin: 23px;
+}
+
+.carousel-item{
+    padding: 3.5%;
+}
+
+#footer{
+    background-color: #393b44;
+    padding: 1% 2%;
+    text-align: center;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+.ff{
+    margin: 20px 8px;
+    color: white;
+}
